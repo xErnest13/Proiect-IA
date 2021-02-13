@@ -1,9 +1,4 @@
-/*
-* Russell Yang
-* 3/15/2019
-* Plays a game of twenty questions (or a custom number of questions) with the user, trying 
-* to guess an animal that the user has chosen.
-*/
+
 
 ; Remove all rules, etc.
 (clear)
